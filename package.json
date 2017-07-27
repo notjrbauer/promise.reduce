@@ -1,0 +1,22 @@
+{
+  "name": "promise.reduce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && tape test.js | tap-spec"
+  },
+  "keywords": [
+    "reduce",
+    "promise",
+    "functional",
+    "mapping",
+    "async"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "blue-tape": "^1.0.0",
+    "standard": "^10.0.2"
+  }
+}
