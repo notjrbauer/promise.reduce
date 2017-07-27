@@ -1,5 +1,5 @@
 # promise.reduce
-> "Returns a promise containing the reduced result from the provided function
+> "Returns a promise containing the reduced result from the provided function"
 
 
 [![NPM][promise-reduce-icon]][promise-reduce-url]
